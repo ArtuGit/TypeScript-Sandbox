@@ -1,1 +1,1 @@
-# JS-Sandbox
+# TypeScript Sandbox
