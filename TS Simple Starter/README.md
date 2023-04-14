@@ -5,7 +5,7 @@
 ### Features
 
 - Minimal
-- TypeScript v4
+- TypeScript v5
 - Testing with Jest
 - Linting with Eslint and Prettier
 - Pre-commit hooks with Husky
