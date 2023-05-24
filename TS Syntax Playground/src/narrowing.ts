@@ -37,5 +37,5 @@ function assertShape(shape: Shape): asserts shape is Shape {
   }
 }
 
-calculateArea({ kind: 'square', sideLength: 10 });
-calculateArea({ kind: 'circle', radius: 10 });
+calculateArea({ kind: 'square', sideLength: 10 }); // Output: 100
+calculateArea({ kind: 'circle', radius: 10 }); // Output: 314.1592653589793
